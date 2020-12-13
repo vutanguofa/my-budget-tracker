@@ -16,7 +16,7 @@ This repo includes a budget tracker API that allows users to add and remove tran
 
 ## Heroku
 
-[Link to deployed application](https://my-new-budget-tracker.herokuapp.com/)<br />
+[Link to deployed application](https://my-new-budget-tracker.herokuapp.com)<br />
 
 ## GitHub
 
